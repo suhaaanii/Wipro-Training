@@ -1,0 +1,15 @@
+C:\DotnetPrac\Day3\ConsoleAppDay3\bin\Debug\net8.0\ConsoleAppDay3.exe
+C:\DotnetPrac\Day3\ConsoleAppDay3\bin\Debug\net8.0\ConsoleAppDay3.deps.json
+C:\DotnetPrac\Day3\ConsoleAppDay3\bin\Debug\net8.0\ConsoleAppDay3.runtimeconfig.json
+C:\DotnetPrac\Day3\ConsoleAppDay3\bin\Debug\net8.0\ConsoleAppDay3.dll
+C:\DotnetPrac\Day3\ConsoleAppDay3\bin\Debug\net8.0\ConsoleAppDay3.pdb
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.AssemblyInfoInputs.cache
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.AssemblyInfo.cs
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.csproj.CoreCompileInputs.cache
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.sourcelink.json
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.dll
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\refint\ConsoleAppDay3.dll
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.pdb
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ConsoleAppDay3.genruntimeconfig.cache
+C:\DotnetPrac\Day3\ConsoleAppDay3\obj\Debug\net8.0\ref\ConsoleAppDay3.dll
