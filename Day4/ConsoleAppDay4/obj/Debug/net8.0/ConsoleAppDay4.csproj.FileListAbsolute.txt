@@ -1,0 +1,15 @@
+C:\DotnetPrac\Day4\ConsoleAppDay4\bin\Debug\net8.0\ConsoleAppDay4.exe
+C:\DotnetPrac\Day4\ConsoleAppDay4\bin\Debug\net8.0\ConsoleAppDay4.deps.json
+C:\DotnetPrac\Day4\ConsoleAppDay4\bin\Debug\net8.0\ConsoleAppDay4.runtimeconfig.json
+C:\DotnetPrac\Day4\ConsoleAppDay4\bin\Debug\net8.0\ConsoleAppDay4.dll
+C:\DotnetPrac\Day4\ConsoleAppDay4\bin\Debug\net8.0\ConsoleAppDay4.pdb
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.AssemblyInfoInputs.cache
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.AssemblyInfo.cs
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.csproj.CoreCompileInputs.cache
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.sourcelink.json
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.dll
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\refint\ConsoleAppDay4.dll
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.pdb
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ConsoleAppDay4.genruntimeconfig.cache
+C:\DotnetPrac\Day4\ConsoleAppDay4\obj\Debug\net8.0\ref\ConsoleAppDay4.dll
