@@ -1,0 +1,15 @@
+C:\DotnetPrac\Day5\ConsoleAppDay5\bin\Debug\net8.0\ConsoleAppDay5.exe
+C:\DotnetPrac\Day5\ConsoleAppDay5\bin\Debug\net8.0\ConsoleAppDay5.deps.json
+C:\DotnetPrac\Day5\ConsoleAppDay5\bin\Debug\net8.0\ConsoleAppDay5.runtimeconfig.json
+C:\DotnetPrac\Day5\ConsoleAppDay5\bin\Debug\net8.0\ConsoleAppDay5.dll
+C:\DotnetPrac\Day5\ConsoleAppDay5\bin\Debug\net8.0\ConsoleAppDay5.pdb
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.AssemblyInfoInputs.cache
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.AssemblyInfo.cs
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.csproj.CoreCompileInputs.cache
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.sourcelink.json
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.dll
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\refint\ConsoleAppDay5.dll
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.pdb
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ConsoleAppDay5.genruntimeconfig.cache
+C:\DotnetPrac\Day5\ConsoleAppDay5\obj\Debug\net8.0\ref\ConsoleAppDay5.dll
